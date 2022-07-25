@@ -12,7 +12,7 @@ The general formula to extract the data from the URL page to a Google Sheet is:
 ```
 =IMPORTHTML(“URL”, “QUERY”, Index)
 ```
-where URL is the URL of the page to examine, including protocol (e.g. http://), QUERY is either "table" or "list" depending on what type of structure contains the desired data, and index is the index, starting at 1, which identifies which table or list as defined in the HTML source should be returned. 
+where **URL** is the URL of the page to examine, including protocol (e.g. http://), **QUERY** is either "table" or "list" depending on what type of structure contains the desired data, and **Index** is the index, starting at 1, which identifies which table or list as defined in the HTML source should be returned. 
 
 For example, to extract the data from the table on the Demographics of the European Union Wikipedia page page, we can use the following formula:
 
