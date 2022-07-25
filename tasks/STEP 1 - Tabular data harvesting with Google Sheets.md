@@ -61,7 +61,7 @@ Full **IMPORTHTML** documentation can be found [here](https://support.google.com
 
 
 ## Excercise
-Find the table with COVID-19 vaccination statistics and construct a query to import it into a Google Sheet.
+Find the table with the list of largest cities in the EU and construct a query to import it into a Google Sheet.
 
 <br>
 
